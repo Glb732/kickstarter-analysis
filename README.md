@@ -1,4 +1,5 @@
-# kickstarter-analysis
+# An Analysis of Kickstarter Campaigns
+
 Performing analysis on Kickstarter data to uncover trends
 	Successful	Failed
 Mean Goal	 $5,049 	 $10,554 
